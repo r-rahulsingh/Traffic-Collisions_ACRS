@@ -8,8 +8,11 @@ Please note that these collision reports are based on preliminary information su
 -Information may include mechanical or human error
 
 This dataset can be joined with the other 2 Crash Reporting datasets (see URLs below) by the State Report Number.
+
 Crash Reporting - Incidents Data at https://data.montgomerycountymd.gov/Public-Safety/Crash-Reporting-Incidents-Data/bhju-22kf
+
 Crash Reporting - Non-Motorists Data at https://data.montgomerycountymd.gov/Public-Safety/Crash-Reporting-Non-Motorists-Data/n7fk-dce5
+
 Update Frequency : Weekly
 
 Tech Used: EDA, pandas, numpy, matplotlib, seaborn, xgboost, scikit-learn, RandomForestClassifier, XGBClassifier, DecisionTreeClassifier, accuracy_score, classification_report, confusion_matrix, GridSearchCV, LogisticRegression
